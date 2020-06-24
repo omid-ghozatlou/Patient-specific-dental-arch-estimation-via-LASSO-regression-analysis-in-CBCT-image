@@ -24,3 +24,4 @@ the key_select.m is the final file. you run it and click my mouse on the picture
 
 
 cite this paper: O. Ghozatlou and D. R. a. Zoroofi, "Patient-specific dental arch estimation via LASSO regression analysis in CBCT images," 2019 26th National and 4th International Iranian Conference on Biomedical Engineering (ICBME), Tehran, Iran, 2019, pp. 124-128, doi: 10.1109/ICBME49163.2019.9030426.
+https://ieeexplore.ieee.org/document/9030426
